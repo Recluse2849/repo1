@@ -15,5 +15,7 @@ class Solution:
         print(res)
         # this is the second version
         # lets commit to the github
+
+        #another minor change
 newSolution = Solution()
 newSolution.combine(3,2)
